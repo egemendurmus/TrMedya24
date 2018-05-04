@@ -1,0 +1,1882 @@
+{
+  "errorCode": 0,
+  "errorMessage": null,
+  "data": [
+    {
+      "day": "0",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "07:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:55",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "ANALİZ SENTEZ",
+      "shortContent": "Kahraman Poyrazoğlu, 24 TV Ekonomi Müdürü Sadi Özdemir ve Star Gazetesi Ankara Temsilcisi Mustafa Kartoğlu ile ekonomi ve siyasetteki gelişmelerini canlı yayında değerlendiriyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün Kahraman Poyrazoğlu’nun sunumuyla \"Moderatör\"de ekrana geliyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "10:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "11:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "KAHVE MOLASI",
+      "shortContent": "Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata değen gelişmelerin ekonomik boyutu hafta içi her gün \"Kahve Molası\"nda masaya yatırılıyor.",
+      "startTime": "12:35",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "13:40",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "13:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "14:40",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "14:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "SANAT TAKİBİ",
+      "shortContent": "\"Sanat Takibi\" kültür sanat dünyasına yepyeni bir pencere aralıyor. Müzikten sinemaya, tiyatrodan heykele, kitaptan resme kadar sanata dair her şey 24 Kültür Sanat Editörü Özlem Karahan’ın sunumuyla ekrana geliyor. \r\n",
+      "startTime": "15:45",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:45",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "16:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Kaan Yakuphan’ın sunumuyla ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "AKŞAM HABERLERİ",
+      "shortContent": "Kaan Yakuphan günün tüm gelişmelerini canlı bağlantılar ve konuklarıyla \"Akşam Haberleri\"nde aktarıyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "19:50",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "DÜNYA HALİ",
+      "shortContent": "Türkiye’de gün tamamlanırken dünyanın farklı noktalarında farklı saatlerde gelişen olayların perde arkası ve bilinmesi gereken ne varsa hafta içi her gün Selim Atalay’ın sunumuyla \"Dünya Hali\"nde ekrana geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "DOĞRUSU NE?",
+      "shortContent": "",
+      "startTime": "21:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "23:30",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "01:15",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "DOĞRUSU NE?",
+      "shortContent": "",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "DOĞRUSU NE?",
+      "shortContent": "",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "DOĞRUSU NE?",
+      "shortContent": "",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "0",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "07:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:55",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "ANALİZ SENTEZ",
+      "shortContent": "Kahraman Poyrazoğlu, 24 TV Ekonomi Müdürü Sadi Özdemir ve Star Gazetesi Ankara Temsilcisi Mustafa Kartoğlu ile ekonomi ve siyasetteki gelişmelerini canlı yayında değerlendiriyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün Kahraman Poyrazoğlu’nun sunumuyla \"Moderatör\"de ekrana geliyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "10:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "11:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "KAHVE MOLASI",
+      "shortContent": "Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata değen gelişmelerin ekonomik boyutu hafta içi her gün \"Kahve Molası\"nda masaya yatırılıyor.",
+      "startTime": "12:35",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "13:40",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "13:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "14:40",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "14:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:45",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "16:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Kaan Yakuphan’ın sunumuyla ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "AKŞAM HABERLERİ",
+      "shortContent": "Kaan Yakuphan günün tüm gelişmelerini canlı bağlantılar ve konuklarıyla \"Akşam Haberleri\"nde aktarıyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "19:50",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "DÜNYA HALİ",
+      "shortContent": "Türkiye’de gün tamamlanırken dünyanın farklı noktalarında farklı saatlerde gelişen olayların perde arkası ve bilinmesi gereken ne varsa hafta içi her gün Selim Atalay’ın sunumuyla \"Dünya Hali\"nde ekrana geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "21:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "23:30",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "01:15",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "1",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "07:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:55",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "ANALİZ SENTEZ",
+      "shortContent": "Kahraman Poyrazoğlu, 24 TV Ekonomi Müdürü Sadi Özdemir ve Star Gazetesi Ankara Temsilcisi Mustafa Kartoğlu ile ekonomi ve siyasetteki gelişmelerini canlı yayında değerlendiriyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün Kahraman Poyrazoğlu’nun sunumuyla \"Moderatör\"de ekrana geliyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "10:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "11:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "KAHVE MOLASI",
+      "shortContent": "Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata değen gelişmelerin ekonomik boyutu hafta içi her gün \"Kahve Molası\"nda masaya yatırılıyor.",
+      "startTime": "12:35",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "13:40",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "13:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "REEL EKONOMİ",
+      "shortContent": "Ekonomi ve piyasalara yön veren tüm gelişmelerin perde arkası REEL EKONOMİ’de sorgulanıyor.",
+      "startTime": "14:35",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "14:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "SANAT TAKİBİ",
+      "shortContent": "\"Sanat Takibi\" kültür sanat dünyasına yepyeni bir pencere aralıyor. Müzikten sinemaya, tiyatrodan heykele, kitaptan resme kadar sanata dair her şey 24 Kültür Sanat Editörü Özlem Karahan’ın sunumuyla ekrana geliyor. \r\n",
+      "startTime": "15:45",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:45",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "16:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Kaan Yakuphan’ın sunumuyla ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "AKŞAM HABERLERİ",
+      "shortContent": "Kaan Yakuphan günün tüm gelişmelerini canlı bağlantılar ve konuklarıyla \"Akşam Haberleri\"nde aktarıyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "19:50",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "FİKR-İ TAKİP",
+      "shortContent": "24’ün gündeme getirdiği haberlerle ilgili tüm gelişmeler \"Fikr-i Takip\"te ekrana geliyor.",
+      "startTime": "20:30",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "KÜRESEL OYUN",
+      "shortContent": "",
+      "startTime": "21:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "23:30",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "01:15",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "KÜRESEL OYUN",
+      "shortContent": "",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "KÜRESEL OYUN",
+      "shortContent": "",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "KÜRESEL OYUN",
+      "shortContent": "",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "2",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "07:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:55",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "ANALİZ SENTEZ",
+      "shortContent": "Kahraman Poyrazoğlu, 24 TV Ekonomi Müdürü Sadi Özdemir ve Star Gazetesi Ankara Temsilcisi Mustafa Kartoğlu ile ekonomi ve siyasetteki gelişmelerini canlı yayında değerlendiriyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün Kahraman Poyrazoğlu’nun sunumuyla \"Moderatör\"de ekrana geliyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "10:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "11:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "KAHVE MOLASI",
+      "shortContent": "Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata değen gelişmelerin ekonomik boyutu hafta içi her gün \"Kahve Molası\"nda masaya yatırılıyor.",
+      "startTime": "12:35",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "13:40",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "13:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "14:40",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "14:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:45",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "16:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Kaan Yakuphan’ın sunumuyla ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "AKŞAM HABERLERİ",
+      "shortContent": "Kaan Yakuphan günün tüm gelişmelerini canlı bağlantılar ve konuklarıyla \"Akşam Haberleri\"nde aktarıyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "19:50",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "DÜNYA HALİ",
+      "shortContent": "Türkiye’de gün tamamlanırken dünyanın farklı noktalarında farklı saatlerde gelişen olayların perde arkası ve bilinmesi gereken ne varsa hafta içi her gün Selim Atalay’ın sunumuyla \"Dünya Hali\"nde ekrana geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "21:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "23:30",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "01:15",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "SORU-YORUM",
+      "shortContent": "Belkıs Kılıçkaya Türkiye ve dünya gündeminin önemli konularını uzman konuklarıyla \"Soru Yorum\"da analiz ediyor.",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "3",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "07:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "UYANDIRMA SERVİSİ",
+      "shortContent": "Sabahın ilk saatlerinden itibaren Türkiye ve dünya gündeminin öne çıkan gelişmeleri, uzman konukların yorumları, canlı yayın ve telefon bağlantılarıyla anlık haberler Ersoy Dede’nin sunumuyla \"Uyandırma Servisi\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:55",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "ANALİZ SENTEZ",
+      "shortContent": "Kahraman Poyrazoğlu, 24 TV Ekonomi Müdürü Sadi Özdemir ve Star Gazetesi Ankara Temsilcisi Mustafa Kartoğlu ile ekonomi ve siyasetteki gelişmelerini canlı yayında değerlendiriyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Hızlı, tarafsız, doğru haber anlayışı ile Türkiye ve dünya gündemine dair her şey, sıcak gelişmeler ve özel haberler canlı bağlantılarla gündemin yoğun akışı hafta içi her gün Kahraman Poyrazoğlu’nun sunumuyla \"Moderatör\"de ekrana geliyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "10:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "11:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "KAHVE MOLASI",
+      "shortContent": "Piyasalar güne ara verdiğinde, hem iş dünyasından hem de yaşamın içinden konuklarla hayata değen gelişmelerin ekonomik boyutu hafta içi her gün \"Kahve Molası\"nda masaya yatırılıyor.",
+      "startTime": "12:35",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "13:40",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "13:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "PİYASALAR AÇILIRKEN",
+      "shortContent": "Piyasalara yön veren gelişmeler, günün beklentileri ve ekonomiye dair tahminler uzmanların görüşleriyle ekrana geliyor.",
+      "startTime": "14:40",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "14:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "SANAT TAKİBİ",
+      "shortContent": "\"Sanat Takibi\" kültür sanat dünyasına yepyeni bir pencere aralıyor. Müzikten sinemaya, tiyatrodan heykele, kitaptan resme kadar sanata dair her şey 24 Kültür Sanat Editörü Özlem Karahan’ın sunumuyla ekrana geliyor. \r\n",
+      "startTime": "15:45",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Helin Aslan’ın sunumuyla ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "SPOR BÜLTENİ",
+      "shortContent": "Gün içinde spora dair yaşanan tüm gelişmeler, takımlarda yaşanan değişiklikler, sporun her alanından son dakika haberleri hafta içi her gün Hazal Ayaşan ve Yaşar Temel’in sunumuyla \"Spor Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:45",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "16:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "MODERATÖR",
+      "shortContent": "Günün sıcak gelişmeleri Kaan Yakuphan’ın sunumuyla ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "AKŞAM HABERLERİ",
+      "shortContent": "Kaan Yakuphan günün tüm gelişmelerini canlı bağlantılar ve konuklarıyla \"Akşam Haberleri\"nde aktarıyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "19:50",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "DÜNYA HALİ",
+      "shortContent": "Türkiye’de gün tamamlanırken dünyanın farklı noktalarında farklı saatlerde gelişen olayların perde arkası ve bilinmesi gereken ne varsa hafta içi her gün Selim Atalay’ın sunumuyla \"Dünya Hali\"nde ekrana geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "FARKLI GÖRÜŞ",
+      "shortContent": "Büyüyen Türkiye’nin 2023 ve 2071 planları neler? Türkiye’nin askeri, ekonomik, siyasi ve Ar-Ge hedeflerinde neler var? Türkiye’yi ne bekliyor? Nasıl hazırlanılıyor? Stratejik hedefler neler? Ardan Zentürk soruyor alanında uzman isimler \"Farklı Görüş\"te yanıtlıyor.",
+      "startTime": "21:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "23:30",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "GÜNÜN MANŞETİ",
+      "shortContent": "24 TV Genel Yayın Yönetmeni Murat Çiçek ve Akşam Gazetesi Yazarı Hikmet Genç, Türkiye’nin ve dünyanın gündemini, gazetelere yansıyan haberleri, köşe yazılarını ve günün önemli gelişmelerini farklı bakış açılarıyla, çarpıcı analizlerle hafta içi her sabah “Günün Manşeti”nde değerlendiriyor.\r\n“Günün Manşeti” hafta içi her sabah saat 11.00’de canlı yayınla 24 TV’de ekrana geliyor.\r\n",
+      "startTime": "01:15",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "FARKLI GÖRÜŞ",
+      "shortContent": "Büyüyen Türkiye’nin 2023 ve 2071 planları neler? Türkiye’nin askeri, ekonomik, siyasi ve Ar-Ge hedeflerinde neler var? Türkiye’yi ne bekliyor? Nasıl hazırlanılıyor? Stratejik hedefler neler? Ardan Zentürk soruyor alanında uzman isimler \"Farklı Görüş\"te yanıtlıyor.",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "FARKLI GÖRÜŞ",
+      "shortContent": "Büyüyen Türkiye’nin 2023 ve 2071 planları neler? Türkiye’nin askeri, ekonomik, siyasi ve Ar-Ge hedeflerinde neler var? Türkiye’yi ne bekliyor? Nasıl hazırlanılıyor? Stratejik hedefler neler? Ardan Zentürk soruyor alanında uzman isimler \"Farklı Görüş\"te yanıtlıyor.",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "FARKLI GÖRÜŞ",
+      "shortContent": "Büyüyen Türkiye’nin 2023 ve 2071 planları neler? Türkiye’nin askeri, ekonomik, siyasi ve Ar-Ge hedeflerinde neler var? Türkiye’yi ne bekliyor? Nasıl hazırlanılıyor? Stratejik hedefler neler? Ardan Zentürk soruyor alanında uzman isimler \"Farklı Görüş\"te yanıtlıyor.",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "4",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "24 PORTRE",
+      "shortContent": "",
+      "startTime": "06:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "AKTİVİST",
+      "shortContent": "Daha iyi bir dünya için seferber olup, hayatı ve çevresini güzelleştiren insanlarla tanışmaya hazır mısınız? Farkındalık yaratan projeler ve onların kahramanları Yeliz Bozkurt Üstündağ’ın sunumuyla \"Aktivist\"te ekranlarınıza geliyor.",
+      "startTime": "07:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "TEKNO ALAN",
+      "shortContent": "Teknoloji dünyasından en sıcak haberler, yenilikler ve ürün incelemeleri Merve Sunay’ın sunumuyla \"Tekno Alan\" ile ekrana geliyor. \"Tekno Alan\" her Cumartesi saat 14:15’te 24’te.",
+      "startTime": "08:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "SAĞLIK MERKEZİ",
+      "shortContent": "Meral Karadağ’ın hazırlayıp sunduğu \"Sağlık Merkezi\" uzman doktorlar eşliğinde sağlık sorunlarına çözümler sunuyor. Tıp dünyasındaki son gelişmeler \"Sağlık Merkezi\"nde ekrana geliyor.",
+      "startTime": "09:10",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "09:50",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "MODERATÖR HAFTA SONU",
+      "shortContent": "İbrahim Güneş \"Moderatör Hafta Sonu\"nda hem sıcak haberlerle gündemin nabzını tutuyor hem de birbirinden ilginç konu ve konuklarları ekrana taşıyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "12:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "8. ETAP",
+      "shortContent": "Ekranların en uzun soluklu otomobil ve motor sporları programı \"8. Etap\" otomobil dünyasındaki yenilikleri ve son haberleri ekrana yansıtıyor. Deneyimli televizyoncu Murat Öztürk’ün hazırlayıp sunduğu otomobil ve motor sporları tutkunlarının vazgeçilmez programı \"8. Etap\" Pazar günleri saat 14:15’te 24’te.",
+      "startTime": "12:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "12:50",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAFTA SONU GÜN ORTASI",
+      "shortContent": "En sıcak gelişmeler ve son dakika haberleri \"Hafta Sonu Gün Ortası\" haber bülteninde ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "TEKNO ALAN",
+      "shortContent": "Teknoloji dünyasından en sıcak haberler, yenilikler ve ürün incelemeleri Merve Sunay’ın sunumuyla \"Tekno Alan\" ile ekrana geliyor. \"Tekno Alan\" her Cumartesi saat 14:15’te 24’te.",
+      "startTime": "14:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAFTA SONU GÜN ORTASI",
+      "shortContent": "En sıcak gelişmeler ve son dakika haberleri \"Hafta Sonu Gün Ortası\" haber bülteninde ekrana geliyor.",
+      "startTime": "15:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "KIRMIZI HALI",
+      "shortContent": "\"Kırmızı Halı\" seriliyor, sinema dünyasının yıldızları, sektörden en son haberler ve en renkli görüntüler 24 ekranından evlerinize konuk oluyor. 24 Kültür Sanat Editörü Özlem Karahan’ın sunduğu Kırmızı Halı’da, vizyondaki filmler, oyuncularla yapılan röportajlar, set ve kamera arkası görüntüleri sinemaseverlerle paylaşılıyor. \"Kırmızı Halı\" Cumartesi 16:15’te 24’te... \r\n",
+      "startTime": "16:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "AKTİVİST",
+      "shortContent": "Daha iyi bir dünya için seferber olup, hayatı ve çevresini güzelleştiren insanlarla tanışmaya hazır mısınız? Farkındalık yaratan projeler ve onların kahramanları Yeliz Bozkurt Üstündağ’ın sunumuyla \"Aktivist\"te ekranlarınıza geliyor.",
+      "startTime": "17:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HAFTA SONU AKŞAM HABERLERİ",
+      "shortContent": "Hafta sonu yaşanan tüm gelişmelerin ayrıntıları İlknur Sağlam’ın sunumuyla \"Hafta Sonu Akşam Haberleri\"nde ekrana geliyor.",
+      "startTime": "18:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "MAÇ ÖNÜ",
+      "shortContent": "Kritik maçlar öncesi çarpıcı analiz ve yorumlar Gökhan Dinç ve Haluk Yürekli’nin sunumuyla \"Maç Önü\"nde ekrana geliyor.",
+      "startTime": "18:30",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "19:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "24 PORTRE",
+      "shortContent": "",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "MAÇ GECESİ",
+      "shortContent": "Haluk Yürekli ve Gökhan Dinç futbolun nabzını \"Maç Gecesi\"nde tutuyor.",
+      "startTime": "20:45",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "23:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "23:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "02:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "24 PORTRE",
+      "shortContent": "",
+      "startTime": "02:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "5",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "KIRMIZI HALI",
+      "shortContent": "\"Kırmızı Halı\" seriliyor, sinema dünyasının yıldızları, sektörden en son haberler ve en renkli görüntüler 24 ekranından evlerinize konuk oluyor. 24 Kültür Sanat Editörü Özlem Karahan’ın sunduğu Kırmızı Halı’da, vizyondaki filmler, oyuncularla yapılan röportajlar, set ve kamera arkası görüntüleri sinemaseverlerle paylaşılıyor. \"Kırmızı Halı\" Cumartesi 16:15’te 24’te... \r\n",
+      "startTime": "06:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "06:50",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "07:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "TEKNO ALAN",
+      "shortContent": "Teknoloji dünyasından en sıcak haberler, yenilikler ve ürün incelemeleri Merve Sunay’ın sunumuyla \"Tekno Alan\" ile ekrana geliyor. \"Tekno Alan\" her Cumartesi saat 14:15’te 24’te.",
+      "startTime": "07:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "08:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "8. ETAP",
+      "shortContent": "Ekranların en uzun soluklu otomobil ve motor sporları programı \"8. Etap\" otomobil dünyasındaki yenilikleri ve son haberleri ekrana yansıtıyor. Deneyimli televizyoncu Murat Öztürk’ün hazırlayıp sunduğu otomobil ve motor sporları tutkunlarının vazgeçilmez programı \"8. Etap\" Pazar günleri saat 14:15’te 24’te.",
+      "startTime": "08:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "08:50",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "09:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "SAĞLIK MERKEZİ",
+      "shortContent": "Meral Karadağ’ın hazırlayıp sunduğu \"Sağlık Merkezi\" uzman doktorlar eşliğinde sağlık sorunlarına çözümler sunuyor. Tıp dünyasındaki son gelişmeler \"Sağlık Merkezi\"nde ekrana geliyor.",
+      "startTime": "09:10",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "09:50",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "MODERATÖR HAFTA SONU",
+      "shortContent": "İbrahim Güneş \"Moderatör Hafta Sonu\"nda hem sıcak haberlerle gündemin nabzını tutuyor hem de birbirinden ilginç konu ve konuklarları ekrana taşıyor.",
+      "startTime": "10:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "12:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "KULİS",
+      "shortContent": "",
+      "startTime": "12:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HAVA - YOL DURUMU",
+      "shortContent": "24 Meteoroloji Editörü Eldebiran Ayan, sabahın ilk saatlerinden itibaren anlık hava durumu bilgilerini ve yol durumunu anlatıyor.",
+      "startTime": "12:50",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HAFTA SONU GÜN ORTASI",
+      "shortContent": "En sıcak gelişmeler ve son dakika haberleri \"Hafta Sonu Gün Ortası\" haber bülteninde ekrana geliyor.",
+      "startTime": "13:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "14:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "14:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "15:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "15:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "16:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "KAYIT DIŞI",
+      "shortContent": "Vakit söyleyene değil söyletene, görünene değil görünmeyene, sahnedekine değil perde arkasına, kuklaya değil ipleri tutana bakma vakti. Öğrenilmiş çaresizliği değil, uluslararası komploları, yeni dünya düzenini ve en önemlisi oynanan oyunu görmeye hazır mısınız? Beyza Hakan moderatörlüğünde Ertan Özyiğit ve cesur konuklar tüm gerçekleri \"Kayıt Dışı\"nda anlatıyor.",
+      "startTime": "16:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "17:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "24 KAFE",
+      "shortContent": "Billur Aktürk gündemin sıcak başlıklarını uzmanlarla \"24 Kafe\"de konuşuyor.",
+      "startTime": "17:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "19:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "AKTİVİST",
+      "shortContent": "Daha iyi bir dünya için seferber olup, hayatı ve çevresini güzelleştiren insanlarla tanışmaya hazır mısınız? Farkındalık yaratan projeler ve onların kahramanları Yeliz Bozkurt Üstündağ’ın sunumuyla \"Aktivist\"te ekranlarınıza geliyor.",
+      "startTime": "20:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "MAÇ GECESİ",
+      "shortContent": "Haluk Yürekli ve Gökhan Dinç futbolun nabzını \"Maç Gecesi\"nde tutuyor.",
+      "startTime": "20:45",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "23:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "AN VE ZAMAN",
+      "shortContent": "Tarih 24 ekranında yeniden yazılıyor. Tarihin arka odalarında kalan önemli olayların ayrıntıları Tarihçi-Yazar Koray Şerbetçi’nin sunumuyla \"An ve Zaman\"da tartışılıyor. Tarihe farklı bakan, bilinmeyenleri ortaya çıkaran \"An ve Zaman\"  her Cumartesi saat 22.15’te 24’te.",
+      "startTime": "23:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "GECE MODERATÖRÜ",
+      "shortContent": "Günün yaşanan tüm gelişmeleri Ardan Zentürk ve Zehra Küçük’ün sunumuyla \"Gece Moderatörü\"nde ekrana geliyor.",
+      "startTime": "01:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "02:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "24 KAFE",
+      "shortContent": "Billur Aktürk gündemin sıcak başlıklarını uzmanlarla \"24 Kafe\"de konuşuyor.",
+      "startTime": "02:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "03:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "24 KAFE",
+      "shortContent": "Billur Aktürk gündemin sıcak başlıklarını uzmanlarla \"24 Kafe\"de konuşuyor.",
+      "startTime": "03:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "04:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "AN VE ZAMAN",
+      "shortContent": "Tarih 24 ekranında yeniden yazılıyor. Tarihin arka odalarında kalan önemli olayların ayrıntıları Tarihçi-Yazar Koray Şerbetçi’nin sunumuyla \"An ve Zaman\"da tartışılıyor. Tarihe farklı bakan, bilinmeyenleri ortaya çıkaran \"An ve Zaman\"  her Cumartesi saat 22.15’te 24’te.",
+      "startTime": "04:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "05:00",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "AN VE ZAMAN",
+      "shortContent": "Tarih 24 ekranında yeniden yazılıyor. Tarihin arka odalarında kalan önemli olayların ayrıntıları Tarihçi-Yazar Koray Şerbetçi’nin sunumuyla \"An ve Zaman\"da tartışılıyor. Tarihe farklı bakan, bilinmeyenleri ortaya çıkaran \"An ve Zaman\"  her Cumartesi saat 22.15’te 24’te.",
+      "startTime": "05:15",
+      "endTime": "-"
+    },
+    {
+      "day": "6",
+      "title": "HABER BÜLTENİ",
+      "shortContent": "Siyasette, ekonomide, sporda ve dünyada, hayatın her alanında yaşanan gelişmeler Serkan Bayam’ın sunumuyla \"Haber Bülteni\"nde ekrana geliyor.",
+      "startTime": "06:00",
+      "endTime": "-"
+    }
+  ]
+}
