@@ -71,9 +71,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<MainResponse> call, Response<MainResponse> response) {
 
-
                 try {
                     if (response.code() == 500) {
+                        //  AppHelper.connectionMessage(MainActivity.this, String.valueOf(response.body().errorMessage));
+                        //todo servis çalışmadığı için ekledim silinicek
+                        localfiles();
+                        return;
+                    }
+                    if (response.body().errorCode == 0) {
                         //  AppHelper.connectionMessage(MainActivity.this, String.valueOf(response.body().errorMessage));
                         //todo servis çalışmadığı için ekledim silinicek
                         localfiles();
@@ -149,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
         final TabsPagerAdapter mAdapter = new TabsPagerAdapter(getSupportFragmentManager());
         viewPager.setAdapter(mAdapter);
         viewPager.setOffscreenPageLimit(4);
-        getPagerInterface(mAdapter, 0);
+        getPagerInterface(mAdapter, 0, data);
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
@@ -158,9 +163,9 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onPageSelected(int position) {
-
-                getPagerInterface(mAdapter, position);
-                setDailyProgramList(position, data);
+                positions = position;
+               // setDailyProgramList(position, data);
+                getPagerInterface(mAdapter, position,data);
 
 
             }
@@ -173,11 +178,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void getPagerInterface(TabsPagerAdapter mAdapter, int position) {
+    private void getPagerInterface(TabsPagerAdapter mAdapter, int position, MainResponse data) {
         FragmentPagerHelperInterface fragment =
                 (FragmentPagerHelperInterface) mAdapter.instantiateItem(viewPager, position);
         if (fragment != null) {
+            responseList.clear();
             fragment.fragmentBecameVisible();
+            setDailyProgramList(position, data);
         }
     }
 
@@ -186,7 +193,7 @@ public class MainActivity extends AppCompatActivity {
         responseData = gson.toJson(data);
         positions = position;
         MainResponse staff = gson.fromJson(MainActivity.responseData, MainResponse.class);
-        responseList.clear();
+        //responseList.clear();
         for (int i = 0; i < staff.data.size(); i++) {
             if (staff.data.get(i).day.equals(String.valueOf(positions))) {
                 responseList.add(staff.data.get(i));

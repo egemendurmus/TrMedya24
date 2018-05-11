@@ -31,14 +31,12 @@ public class DailyProgramListFragments extends Fragment implements FragmentPager
         View root = inflater.inflate(R.layout.daily_schedule_fragment, container, false);
         listView = (root).findViewById(R.id.list);
 
-
         return root;
     }
 
     @Override
     public void onResume() {
         super.onResume();
-
         fragmentBecameVisible();
     }
 
@@ -46,6 +44,9 @@ public class DailyProgramListFragments extends Fragment implements FragmentPager
     public void fragmentBecameVisible() {
         DailyProgramListAdapter programListAdapter = new DailyProgramListAdapter(getActivity(), MainActivity.responseList);
         listView.setAdapter(programListAdapter);
+        programListAdapter.notifyDataSetChanged();
+        listView.invalidateViews();
+
 
     }
 }
