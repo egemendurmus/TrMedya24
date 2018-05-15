@@ -154,7 +154,6 @@ public class MainActivity extends AppCompatActivity {
         final TabsPagerAdapter mAdapter = new TabsPagerAdapter(getSupportFragmentManager());
         viewPager.setAdapter(mAdapter);
         viewPager.setOffscreenPageLimit(4);
-        getPagerInterface(mAdapter, 0, data);
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
@@ -191,7 +190,6 @@ public class MainActivity extends AppCompatActivity {
     private void setDailyProgramList(int position, MainResponse data) {
         Gson gson = new Gson();
         responseData = gson.toJson(data);
-        positions = position;
         MainResponse staff = gson.fromJson(MainActivity.responseData, MainResponse.class);
         //responseList.clear();
         for (int i = 0; i < staff.data.size(); i++) {
